@@ -1,0 +1,3 @@
+# CI replay marker for syntax/go
+feature_branch: replay-60462fe1
+workflow: .github/workflows/ci.yml
